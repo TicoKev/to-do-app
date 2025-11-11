@@ -24,3 +24,7 @@ This project allows you to add, edit, complete, and delete tasks — all saved l
 - **Tailwind CSS**
 - **Vite**
 - **React Icons**
+- 
+
+## ⭐ Project Link
+- https://to-do-management-app.netlify.app/
